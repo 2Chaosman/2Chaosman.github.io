@@ -1,6 +1,6 @@
 ---
-title: Blog.Erictreacy.Github.Io
-timezone: America/New_York
+title: Make your own way!
+timezone: Russia/Moscow
 collections:
   posts:
     title: Posts
@@ -9,9 +9,9 @@ collections:
     title: Uploads
     output: true
 permalink: "/blog/:title"
-name: Writing
-description: A blog on Jekyll and GitHub Pages
-google_verification: 
+name: Make your own way
+description: A blog about programming and stuff
+google_verification:
 include:
 - ".htaccess"
 exclude:
