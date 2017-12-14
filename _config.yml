@@ -20,7 +20,7 @@ exclude:
 sass:
   style: compressed
   sass_dir: _sass
-markdown: kramdown
+markdown: markdown
 kramdown:
   input: GFM
   hard_wrap: false
